@@ -16,6 +16,6 @@ int sumofdigit(int num){
 int main(){
 
 
-    cout<<"sum = "<< sumofdigit(12345)<<endl;
+    cout<<"sum = "<< sumofdigit(12345)<<endl ;
     return 0;
 }
